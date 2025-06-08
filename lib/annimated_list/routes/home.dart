@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/annimated_list/routes/routeGenerator.dart';
+import 'package:myapp/annimated_list/routes/route_generator.dart';
 import 'package:myapp/annimated_list/state/cart.dart';
 import 'package:myapp/annimated_list/state/count.dart';
 

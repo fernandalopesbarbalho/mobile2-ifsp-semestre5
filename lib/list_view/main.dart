@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
 }
 
 class MagoListScreen extends StatelessWidget {
-  MagoListScreen({super.key});
+  const MagoListScreen({super.key});
 
   final String jsonString = '''
 {
