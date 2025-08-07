@@ -1,16 +1,13 @@
-# myapp
+# Desenvolvimento Mobile 2
+Códigos produzidos referentes à disciplina de Desenvolvimento para Dispositivos Móveis.
 
-A new Flutter project.
+## [Animated List](https://github.com/fernandalopesbarbalho/myapp/tree/main/lib/annimated_list) - 11/05/2025
 
-## Getting Started
+## [List View (Json Parse Manual)](https://github.com/fernandalopesbarbalho/myapp/tree/main/lib/list_view) - 24/05/2025
 
-This project is a starting point for a Flutter application.
+## [Mercado Cabuloso](https://github.com/dudelim/Mercado-Cabuloso) - 01/06/2025
+### Realizado em dupla com [Maria Eduarda Melim](https://github.com/dudelim).
 
-A few resources to get you started if this is your first Flutter project:
+## [Json Parse Automático](https://github.com/fernandalopesbarbalho/myapp/tree/main/lib/json) - 08/06/2025
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## [Http Package](https://github.com/fernandalopesbarbalho/myapp/tree/main/lib/http) - 16/06/2025
