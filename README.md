@@ -1,5 +1,7 @@
 # Desenvolvimento Mobile 2
-Códigos produzidos referentes à disciplina de Desenvolvimento para Dispositivos Móveis.
+Códigos produzidos durante o quinto semestre de Análise e Desenvolvimento de Sistemas (IFSP), referentes à disciplina de Desenvolvimento para Dispositivos Móveis.
+
+Nota final: 10.
 
 ## [Animated List](https://github.com/fernandalopesbarbalho/myapp/tree/main/lib/annimated_list) - 11/05/2025
 
